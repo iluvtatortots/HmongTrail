@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+<<<<<<< HEAD
+  - BlockingLayer
+=======
+  - Background
+>>>>>>> master
   layers:
   - Default
   - TransparentFX
@@ -13,7 +18,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
+<<<<<<< HEAD
+  - BlockingLayer
+=======
+  - Background Image
+>>>>>>> master
   - 
   - 
   - 
