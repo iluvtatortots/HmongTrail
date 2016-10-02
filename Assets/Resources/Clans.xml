@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClanCollection>
+  <Clans>
+    <Clan Id="C01">
+      <Label>Chang (Cha)</Label>
+    </Clan>
+    <Clan Id="C02">
+      <Label>Cheng</Label>
+    </Clan>
+    <Clan Id="C03">
+      <Label>Chue (Chu)</Label>
+    </Clan>
+    <Clan Id="C04">
+      <Label>Fang</Label>
+    </Clan>
+    <Clan Id="C05">
+      <Label>Hang</Label>
+    </Clan>
+    <Clan Id="C06">
+      <Label>Her (Herr or Heu)</Label>
+    </Clan>
+    <Clan Id="C07">
+      <Label>Khang</Label>
+    </Clan>
+    <Clan Id="C08">
+      <Label>Kong</Label>
+    </Clan>
+    <Clan Id="C09">
+      <Label>Kue</Label>
+    </Clan>
+    <Clan Id="C10">
+      <Label>Lee (Le or Ly)</Label>
+    </Clan>
+    <Clan Id="C11">
+      <Label>Lor (Lo)</Label>
+    </Clan>
+    <Clan Id="C12">
+      <Label>Moua (Mua)</Label>
+    </Clan>
+    <Clan Id="C13">
+      <Label>Pha</Label>
+    </Clan>
+    <Clan Id="C14">
+      <Label>Thao (Thor)</Label>
+    </Clan>
+    <Clan Id="C15">
+      <Label>Vang (Va)</Label>
+    </Clan>
+    <Clan Id="C16">
+      <Label>Vue (Vu)</Label>
+    </Clan>
+    <Clan Id="C17">
+      <Label>Xiong</Label>
+    </Clan>
+    <Clan Id="C18">
+      <Label>Yang (Ya)</Label>
+    </Clan>
+  </Clans>
+</ClanCollection>
